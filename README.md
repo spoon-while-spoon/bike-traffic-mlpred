@@ -1,14 +1,15 @@
 # BikeTrafficPredict - Berlin 
 *A machine-learning project*
 
+## What is this?
+
 *btp-berlin* is a experimental learning project in which we trying to train a model to be able to predict bike traffic in certain areas depending on weather data and also possible unpredictable events like covid and the lockdows. 
 *btp-berlin* is trained in data from 2015 to 2022. 
 
 For Documentation please use the Notebooks
 
----
 
-##Contains:
+## What´s inside?
 
 **Data preperation script:**
 
@@ -33,4 +34,4 @@ For Documentation please use the Notebooks
 
   - clean_df.csv
 
-
+## Can I contribute
