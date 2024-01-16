@@ -1,5 +1,8 @@
-# bike-traffic-mlpred
-*Machine-Learning basemodel training for bike traffic/weather dependecies in Berlin from 2015 to 2022*
+# BikeTrafficPredict - Berlin 
+*A machine-learning project*
+
+*btp-berlin* is a experimental learning project in which we trying to train a model to be able to predict bike traffic in certain areas depending on weather data and also possible unpredictable events like covid and the lockdows. 
+*btp-berlin* is trained in data from 2015 to 2022. 
 
 For Documentation please use the Notebooks
 
